@@ -295,6 +295,7 @@ class UartReaderQThread(QThread):
                         self.last_mac = " "
                     print("timeout:"+str(self.timeout))
                     data = self.serial.read(self.serial.in_waiting or 1)
+                    print("收到数据:"+str(data))
                     for byte in data:
                         self.bytes_queue.put(byte)
                     if self.bytes_queue.qsize() >= 32:
@@ -330,7 +331,7 @@ class UartReaderQThread(QThread):
                                                         sys_speak_pass(get_defualt_num())
                                                     except Exception as e:
                                                         print("语音异常",str(e))
-                                            time.sleep(2)
+                                            time.sleep(0.1)
 
                                         else:
                                             if self.last_mac == address:
@@ -353,7 +354,7 @@ class UartReaderQThread(QThread):
                                                 self.sin_dis_str.emit("此蓝牙设备已入库，检查是否混料！")
                                                 self.sin_btn_dis_str.emit("此蓝牙设备已入库，检查是否混料！")
                                                 save_to_erro_log("此蓝牙设备已测试过，检查是否混料！" + str(address))
-                                                time.sleep(3)
+                                                time.sleep(2)
                                         self.last_mac = address
 
                                     else:

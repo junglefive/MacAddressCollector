@@ -6,7 +6,6 @@ import os
 import xlwt
 import serial
 import serial.tools.list_ports
-import pyttsx3
 import winsound
 
 
@@ -172,15 +171,11 @@ def sys_beep():
     pass
 
 def sys_speak_pass(num):
-    engine = pyttsx3.init()
-    engine.say(u"入库成功,%s个"%(num))
-    engine.runAndWait()
+    pass
 
 def sys_speak_had_in():
 
-    engine = pyttsx3.init()
-    engine.say(u"已录入")
-    engine.runAndWait()
+    pass
 
 
 if __name__ == '__main__':
