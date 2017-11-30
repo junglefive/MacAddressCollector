@@ -13,3 +13,14 @@
 2017-11-30 16:35:16:成功检测到串口-CC2640
 2017-11-30 16:35:45:打开软件MacSaver
 2017-11-30 16:35:46:成功检测到串口-CC2640
+2017-11-30 17:23:19:打开软件MacSaver
+2017-11-30 17:24:17:打开软件MacSaver
+2017-11-30 17:24:18:异常could not open port 'COM20': PermissionError(13, '拒绝访问。', None, 5)
+2017-11-30 17:24:18:异常：local variable 'ser' referenced before assignment
+2017-11-30 17:26:15:打开软件MacSaver
+2017-11-30 17:26:16:异常could not open port 'COM20': PermissionError(13, '拒绝访问。', None, 5)
+2017-11-30 17:26:16:异常：local variable 'ser' referenced before assignment
+2017-11-30 17:27:08:打开软件MacSaver
+2017-11-30 17:27:10:异常could not open port 'COM20': PermissionError(13, '拒绝访问。', None, 5)
+2017-11-30 17:27:10:异常：local variable 'ser' referenced before assignment
+2017-11-30 17:27:25:打开软件MacSaver
