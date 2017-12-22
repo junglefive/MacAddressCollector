@@ -90,16 +90,17 @@ def auto_detected_cc2640():
             except Exception as e:
                  print(str(e))
                  save_to_erro_log("异常："+str(e))
-                 return False,None
+                 # return False,None
 
-def save_to_database(mac_address):
+def save_to_database(mac_address,cur_version):
     address = mac_address
+    version = cur_version
     time_stamp = datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
     try:
         con = lite.connect('./data/chipsea.db')
         cur = con.cursor();
-        cur.execute("CREATE TABLE IF NOT EXISTS mac_address_table(cur_time TEXT, mac_address TEXT)")
-        cur.execute("CREATE TABLE IF NOT EXISTS mac_address_table_repeat(cur_time TEXT, mac_address TEXT)")
+        cur.execute("CREATE TABLE IF NOT EXISTS mac_address_table(cur_time TEXT, mac_address TEXT, version TEXT)")
+        cur.execute("CREATE TABLE IF NOT EXISTS mac_address_table_repeat(cur_time TEXT, mac_address TEXT,version TEXT)")
         cmd_select = "SELECT * FROM mac_address_table WHERE mac_address='%s'" % (address)
         cur.execute(cmd_select)
         macs = None
@@ -112,20 +113,20 @@ def save_to_database(mac_address):
             for row in macs:
                 print("当前mac地址已存在!")
                 save_to_erro_log("当前mac地址已存在:" + str(row))
-            cmd = "insert into mac_address_table(cur_time, mac_address)values('%s', '%s');" % (
-            time_stamp, address)
-            cmd_rep = "insert into mac_address_table_repeat(cur_time, mac_address)values('%s', '%s');" % (
-                time_stamp, address)
+            cmd = "insert into mac_address_table(cur_time, mac_address,version)values('%s', '%s','%s');" % (
+            time_stamp, address,version)
+            cmd_rep = "insert into mac_address_table_repeat(cur_time, mac_address,version)values('%s', '%s','%s');" % (
+                time_stamp, address,version)
             cur.execute(cmd)
             cur.execute(cmd_rep)
             con.commit()
             con.close()
             return False
         else:
-            cmd = "INSERT INTO mac_address_table(cur_time, mac_address)VALUES('%s', '%s');" % (
-            time_stamp, address)
-            cmd_rep = "INSERT INTO mac_address_table_repeat(cur_time, mac_address)VALUES('%s', '%s');" % (
-            time_stamp, address)
+            cmd = "INSERT INTO mac_address_table(cur_time, mac_address,version)VALUES('%s', '%s', '%s');" % (
+            time_stamp, address,version)
+            cmd_rep = "INSERT INTO mac_address_table_repeat(cur_time, mac_address,version)VALUES('%s', '%s', '%s');" % (
+            time_stamp, address,version)
             cur.execute(cmd)
             cur.execute(cmd_rep)
             con.commit()
@@ -136,7 +137,7 @@ def save_to_database(mac_address):
             return True
 
     except Exception as e:
-        print("save_to_database:",str(e))
+        print("except:save_to_database->",str(e))
 
 
 def get_green_html(i_num):

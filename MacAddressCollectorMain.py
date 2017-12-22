@@ -217,8 +217,8 @@ class GenXls(QThread):
         else:
             con = lite.connect('./data/chipsea.db')
             cur = con.cursor()
-            cur.execute("CREATE TABLE IF NOT EXISTS mac_address_table(cur_time TEXT, mac_address TEXT)")
-            cur.execute("CREATE TABLE IF NOT EXISTS mac_address_table_repeat(cur_time TEXT, mac_address TEXT)")
+            cur.execute("CREATE TABLE IF NOT EXISTS mac_address_table(cur_time TEXT, mac_address TEXT, version TEXT)")
+            cur.execute("CREATE TABLE IF NOT EXISTS mac_address_table_repeat(cur_time TEXT, mac_address TEXT, version TEXT)")
             cur.execute("SELECT * FROM mac_address_table")
             # 生成数据
             try:
@@ -230,7 +230,7 @@ class GenXls(QThread):
                 i = 0;
                 for row in address:
                     i = i+1;
-                    file.write(row[0]+","+row[1]+"\n")
+                    file.write(row[0]+","+row[1]+","+row[2]+"\n")
                     self.sin_update_progress_bar_int.emit(int(i*100/total))
             except Exception as e:
                 print("gen_chipsea_xls:"+str(e))
@@ -302,6 +302,7 @@ class UartReaderQThread(QThread):
 
                         if self.bytes_queue.get() == 0x53:
                             if self.bytes_queue.get()== 0x4D:
+                                print("解析中....")
                                 # 丢掉3bytes的ID标识、4bytes的命令字节
                                 for i in range(7):
                                     self.bytes_queue.get();
@@ -313,16 +314,25 @@ class UartReaderQThread(QThread):
                                         mac_address[i] = self.bytes_queue.get()
                                     mac_address.reverse()
                                     address = ' '.join('{:02x}'.format(x) for x in mac_address)
-                                    for i in range(15):
-                                        self.bytes_queue.get()
-                                    print("解析到Mac地址:"+str(address))
+                                    version_list = [0,0,0,0,0,0,0,0,0,0,0,0]
+                                    version = ""
+                                    ver_len = self.bytes_queue.get()
+                                    if ver_len>0:
+                                        for i in range(ver_len):
+                                            version_list[i]  = self.bytes_queue.get()
+                                            version = str(bytes(version_list[0:ver_len]),encoding="ascii")
+                                    else:
+                                        version = "NO"
+                                    for i in range(14-ver_len):
+                                            self.bytes_queue.get()
+                                    print("解析到Mac地址:"+str(address),"版本号:"+version)
                                     if mac_address[0] == 0xC8 and mac_address[1] == 0xB2 and mac_address[2] == 0x1E:
-                                        result = save_to_database(address)
+                                        result = save_to_database(address,version)
 
                                         if result:
                                             self.timeout = 0
                                             self.sin_current_num_bool.emit(True)
-                                            self.sin_dis_str.emit("入库成功: "+address)
+                                            self.sin_dis_str.emit("入库成功: "+address+"ver:"+version)
                                             self.sin_btn_dis_str.emit("入库成功，请拿下模块")
                                             if not self.bool_close_voice:
                                                 # if self.bool_voice_model:

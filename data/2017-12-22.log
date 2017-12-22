@@ -1,0 +1,1983 @@
+2017-12-22 16:56:20:打开软件MacSaver
+2017-12-22 16:56:20:成功检测到串口-CC2640
+2017-12-22 17:05:49:打开软件MacSaver
+2017-12-22 17:05:50:成功检测到串口-CC2640
+2017-12-22 17:06:13:当前mac地址已存在:('2017-12-22 17:06:04', 'c8 b2 1e 1e 4a a5', 'CS2.3')
+2017-12-22 17:06:14:此蓝牙设备已测试过，检查是否混料！c8 b2 1e 1e 4a a5
+2017-12-22 17:06:26:当前mac地址已存在:('2017-12-22 17:06:13', 'c8 b2 1e 1e 4a a5', 'CS2.3')
+2017-12-22 17:06:27:此蓝牙设备已测试过，检查是否混料！c8 b2 1e 1e 4a a5
+2017-12-22 17:06:38:当前mac地址已存在:('2017-12-22 17:06:26', 'c8 b2 1e 1e 4a a5', 'CS2.3')
+2017-12-22 17:06:39:此蓝牙设备已测试过，检查是否混料！c8 b2 1e 1e 4a a5
+2017-12-22 17:06:51:当前mac地址已存在:('2017-12-22 17:06:38', 'c8 b2 1e 1e 4a a5', 'CS2.3')
+2017-12-22 17:06:52:此蓝牙设备已测试过，检查是否混料！c8 b2 1e 1e 4a a5
+2017-12-22 17:07:25:打开软件MacSaver
+2017-12-22 17:07:26:成功检测到串口-CC2640
+2017-12-22 17:48:37:打开软件MacSaver
+2017-12-22 17:49:25:成功检测到串口-CC2640
+2017-12-22 17:49:46:当前mac地址已存在:('2017-12-22 17:49:40', 'c8 b2 1e 1e 4a cb', 'CS2.3')
+2017-12-22 17:49:47:此蓝牙设备已测试过，检查是否混料！c8 b2 1e 1e 4a cb
+2017-12-22 17:49:54:当前mac地址已存在:('2017-12-22 17:49:46', 'c8 b2 1e 1e 4a cb', 'CS2.3')
+2017-12-22 17:49:55:此蓝牙设备已测试过，检查是否混料！c8 b2 1e 1e 4a cb
+2017-12-22 17:53:28:打开软件MacSaver
+2017-12-22 17:53:36:成功检测到串口-CC2640
+2017-12-22 17:54:11:打开软件MacSaver
+2017-12-22 17:54:11:get_defualt_num异常：no such table: mac_address_table
+2017-12-22 17:54:11:成功检测到串口-CC2640
+2017-12-22 17:55:16:打开软件MacSaver
+2017-12-22 17:55:17:get_defualt_num异常：no such table: mac_address_table
+2017-12-22 17:55:17:成功检测到串口-CC2640
+2017-12-22 17:57:50:打开软件MacSaver
+2017-12-22 17:57:51:get_defualt_num异常：no such table: mac_address_table
+2017-12-22 17:57:57:成功检测到串口-CC2640
+2017-12-22 17:59:18:打开软件MacSaver
+2017-12-22 17:59:19:get_defualt_num异常：no such table: mac_address_table
+2017-12-22 17:59:19:成功检测到串口-CC2640
+2017-12-22 18:00:31:打开软件MacSaver
+2017-12-22 18:00:31:get_defualt_num异常：no such table: mac_address_table
+2017-12-22 18:00:31:成功检测到串口-CC2640
+2017-12-22 18:02:11:打开软件MacSaver
+2017-12-22 18:02:12:get_defualt_num异常：no such table: mac_address_table
+2017-12-22 18:02:12:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:12:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:12:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:12:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:12:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:12:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:12:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:12:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:12:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:12:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:12:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:12:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:12:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:12:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:12:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:12:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:12:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:12:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:12:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:12:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:12:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:12:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:12:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:12:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:12:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:12:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:12:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:12:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:12:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:12:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:12:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:12:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:12:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:12:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:12:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:12:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:12:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:12:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:12:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:12:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:12:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:12:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:12:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:12:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:12:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:12:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:12:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:12:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:12:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:12:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:12:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:12:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:12:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:12:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:12:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:12:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:12:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:12:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:12:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:12:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:12:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:12:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:12:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:12:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:12:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:12:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:12:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:12:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:12:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:12:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:12:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:12:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:12:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:12:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:12:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:12:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:12:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:12:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:13:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:13:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:14:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:14:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:15:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:15:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:16:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:16:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:16:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:16:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:16:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:16:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:16:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:16:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:16:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:16:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:16:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:16:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:16:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:16:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:16:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:16:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:16:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:16:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:16:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:16:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:16:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:16:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:16:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:16:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:16:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:16:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:16:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:16:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:16:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:16:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:16:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:16:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:16:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:16:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:16:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:16:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:16:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:16:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:16:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:16:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:16:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:16:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:16:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:16:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:16:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:16:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:16:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:16:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:16:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:16:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:16:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:16:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:16:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:16:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:16:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:16:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:16:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:16:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:16:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:16:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:16:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:16:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:16:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:16:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:16:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:16:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:16:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:16:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:16:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:16:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:16:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:16:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:16:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:16:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:16:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:16:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:16:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:16:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:16:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:16:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:16:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:16:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:16:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:16:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:16:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:16:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:16:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:16:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:16:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:16:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:16:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:16:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:16:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:16:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:16:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:16:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:16:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:16:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:16:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:16:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:16:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:16:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:16:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:16:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:16:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:16:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:16:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:16:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:16:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:16:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:16:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:16:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:16:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:16:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:16:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:16:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:16:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:16:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:16:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:16:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:16:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:16:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:16:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:16:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:16:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:16:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:16:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:16:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:16:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:16:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:16:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:16:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:16:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:16:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:16:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:16:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:16:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:02:16:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:02:16:成功检测到串口-CC2640
+2017-12-22 18:02:23:打开软件MacSaver
+2017-12-22 18:02:24:get_defualt_num异常：no such table: mac_address_table
+2017-12-22 18:02:24:成功检测到串口-CC2640
+2017-12-22 18:03:26:打开软件MacSaver
+2017-12-22 18:03:26:get_defualt_num异常：no such table: mac_address_table
+2017-12-22 18:03:27:成功检测到串口-CC2640
+2017-12-22 18:03:39:打开软件MacSaver
+2017-12-22 18:03:40:get_defualt_num异常：no such table: mac_address_table
+2017-12-22 18:03:40:成功检测到串口-CC2640
+2017-12-22 18:04:51:打开软件MacSaver
+2017-12-22 18:04:51:get_defualt_num异常：no such table: mac_address_table
+2017-12-22 18:04:52:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:52:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:52:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:52:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:52:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:52:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:52:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:52:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:52:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:52:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:52:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:52:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:52:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:52:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:52:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:52:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:52:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:52:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:52:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:52:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:52:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:52:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:52:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:52:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:52:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:52:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:52:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:52:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:52:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:52:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:52:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:52:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:52:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:52:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:52:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:52:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:52:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:52:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:52:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:52:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:52:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:52:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:52:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:52:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:52:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:52:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:52:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:52:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:52:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:52:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:52:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:52:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:52:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:52:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:52:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:52:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:52:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:52:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:52:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:52:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:52:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:52:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:52:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:52:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:52:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:52:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:52:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:52:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:52:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:52:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:52:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:52:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:52:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:52:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:52:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:52:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:52:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:52:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:52:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:52:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:52:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:52:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:52:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:52:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:52:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:52:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:52:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:52:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:52:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:52:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:52:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:52:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:52:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:52:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:52:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:52:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:52:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:52:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:52:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:52:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:52:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:52:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:52:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:52:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:53:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:53:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:53:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:53:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:53:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:53:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:53:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:53:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:53:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:53:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:53:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:53:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:53:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:53:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:53:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:53:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:53:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:53:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:53:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:53:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:53:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:53:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:53:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:53:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:53:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:53:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:53:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:53:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:53:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:53:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:53:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:53:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:53:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:53:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:53:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:53:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:53:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:53:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:53:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:53:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:53:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:53:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:53:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:53:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:53:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:53:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:53:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:53:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:53:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:53:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:53:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:53:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:53:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:53:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:53:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:53:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:53:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:53:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:53:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:53:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:53:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:53:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:53:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:53:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:53:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:53:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:53:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:53:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:53:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:53:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:53:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:53:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:53:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:53:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:53:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:53:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:53:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:53:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:53:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:53:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:53:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:53:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:53:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:53:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:53:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:53:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:53:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:53:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:53:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:53:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:53:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:53:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:53:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:53:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:53:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:53:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:53:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:53:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:53:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:53:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:53:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:53:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:53:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:53:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:53:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:53:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:53:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:53:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:53:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:53:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:53:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:53:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:53:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:53:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:53:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:53:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:53:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:53:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:53:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:53:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:53:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:53:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:53:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:53:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:53:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:53:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:53:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:53:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:53:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:53:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:53:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:53:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:53:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:53:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:53:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:53:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:53:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:53:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:53:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:53:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:53:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:53:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:53:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:53:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:53:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:53:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:53:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:53:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:53:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:53:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:53:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:53:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:53:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:53:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:53:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:53:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:53:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:53:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:53:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:53:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:53:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:53:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:53:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:53:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:53:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:53:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:53:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:53:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:53:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:53:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:53:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:53:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:53:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:53:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:53:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:53:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:54:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:54:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:55:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:55:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:56:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:56:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:57:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:57:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:57:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:57:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:57:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:57:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:57:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:57:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:57:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:57:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:57:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:57:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:57:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:57:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:57:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:57:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:57:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:57:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:57:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:57:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:57:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:57:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:57:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:57:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:57:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:57:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:57:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:57:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:57:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:57:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:57:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:57:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:57:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:57:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:57:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:57:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:57:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:57:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:57:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:57:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:57:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:57:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:57:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:57:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:57:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:57:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:57:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:57:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:57:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:57:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:57:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:57:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:57:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:57:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:57:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:57:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:57:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:57:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:57:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:57:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:57:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:57:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:57:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:57:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:57:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:57:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:57:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:57:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:57:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:57:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:57:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:57:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:57:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:57:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:57:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:57:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:57:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:57:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:57:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:57:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:57:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:57:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:57:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:57:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:57:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:57:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:57:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:57:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:57:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:57:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:57:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:57:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:57:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:57:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:57:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:57:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:57:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:57:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:57:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:57:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:04:57:异常could not open port 'COM13': PermissionError(13, '拒绝访问。', None, 5)
+2017-12-22 18:04:57:异常：local variable 'ser' referenced before assignment
+2017-12-22 18:05:04:打开软件MacSaver
+2017-12-22 18:05:05:get_defualt_num异常：no such table: mac_address_table
+2017-12-22 18:05:05:成功检测到串口-CC2640
+2017-12-22 18:05:29:当前mac地址已存在:('2017-12-22 18:05:27', 'c8 b2 1e 00 00 00', '')
+2017-12-22 18:05:30:当前mac地址已存在:('2017-12-22 18:05:29', 'c8 b2 1e 00 00 00', '')
+2017-12-22 18:05:32:当前mac地址已存在:('2017-12-22 18:05:30', 'c8 b2 1e 00 00 00', '')
+2017-12-22 18:05:33:当前mac地址已存在:('2017-12-22 18:05:32', 'c8 b2 1e 00 00 00', '')
+2017-12-22 18:05:53:当前mac地址已存在:('2017-12-22 18:05:52', 'c8 b2 1e 1e 4a cb', '')
+2017-12-22 18:05:55:当前mac地址已存在:('2017-12-22 18:05:53', 'c8 b2 1e 1e 4a cb', '')
+2017-12-22 18:05:56:当前mac地址已存在:('2017-12-22 18:05:55', 'c8 b2 1e 1e 4a cb', '')
+2017-12-22 18:05:58:当前mac地址已存在:('2017-12-22 18:05:56', 'c8 b2 1e 1e 4a cb', '')
+2017-12-22 18:06:18:打开软件MacSaver
+2017-12-22 18:06:19:成功检测到串口-CC2640
+2017-12-22 18:06:34:当前mac地址已存在:('2017-12-22 18:06:32', 'c8 b2 1e 00 00 00', 'CS2.3')
+2017-12-22 18:06:35:当前mac地址已存在:('2017-12-22 18:06:34', 'c8 b2 1e 00 00 00', 'CS2.3')
+2017-12-22 18:06:37:当前mac地址已存在:('2017-12-22 18:06:35', 'c8 b2 1e 00 00 00', 'CS2.3')
+2017-12-22 18:07:16:当前mac地址已存在:('2017-12-22 18:07:14', 'c8 b2 1e 1e 4a a5', 'CS2.3')
+2017-12-22 18:07:17:当前mac地址已存在:('2017-12-22 18:07:16', 'c8 b2 1e 1e 4a a5', 'CS2.3')
+2017-12-22 18:07:19:当前mac地址已存在:('2017-12-22 18:07:17', 'c8 b2 1e 1e 4a a5', 'CS2.3')
+2017-12-22 18:07:22:当前mac地址已存在:('2017-12-22 18:07:21', 'c8 b2 1e 1e 4a cb', 'CS2.3')
+2017-12-22 18:07:24:当前mac地址已存在:('2017-12-22 18:07:22', 'c8 b2 1e 1e 4a cb', 'CS2.3')
+2017-12-22 18:07:25:当前mac地址已存在:('2017-12-22 18:07:24', 'c8 b2 1e 1e 4a cb', 'CS2.3')
+2017-12-22 18:07:27:当前mac地址已存在:('2017-12-22 18:07:19', 'c8 b2 1e 1e 4a a5', 'CS2.3')
+2017-12-22 18:07:28:此蓝牙设备已测试过，检查是否混料！c8 b2 1e 1e 4a a5
+2017-12-22 18:07:30:当前mac地址已存在:('2017-12-22 18:07:27', 'c8 b2 1e 1e 4a a5', 'CS2.3')
+2017-12-22 18:07:30:当前mac地址已存在:('2017-12-22 18:07:30', 'c8 b2 1e 1e 4a a5', 'CS2.3')
+2017-12-22 18:07:32:当前mac地址已存在:('2017-12-22 18:07:30', 'c8 b2 1e 1e 4a a5', 'CS2.3')
+2017-12-22 18:07:33:当前mac地址已存在:('2017-12-22 18:07:32', 'c8 b2 1e 1e 4a a5', 'CS2.3')
+2017-12-22 18:07:37:当前mac地址已存在:('2017-12-22 18:06:37', 'c8 b2 1e 00 00 00', 'CS2.3')
+2017-12-22 18:07:38:此蓝牙设备已测试过，检查是否混料！c8 b2 1e 00 00 00
+2017-12-22 18:07:40:当前mac地址已存在:('2017-12-22 18:07:37', 'c8 b2 1e 00 00 00', 'CS2.3')
+2017-12-22 18:07:41:当前mac地址已存在:('2017-12-22 18:07:40', 'c8 b2 1e 00 00 00', 'CS2.3')
+2017-12-22 18:07:42:当前mac地址已存在:('2017-12-22 18:07:41', 'c8 b2 1e 00 00 00', 'CS2.3')
+2017-12-22 18:07:43:当前mac地址已存在:('2017-12-22 18:07:42', 'c8 b2 1e 00 00 00', 'CS2.3')
+2017-12-22 18:07:58:打开软件MacSaver
+2017-12-22 18:07:58:成功检测到串口-CC2640

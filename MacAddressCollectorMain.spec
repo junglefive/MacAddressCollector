@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['MacAddressCollectorMain.py'],
-             pathex=['C:\\Python\\Python35-32\\Lib\\site-packages\\pyttsx3\\drivers', 'F:\\Workspace\\GitHub\\MacAdressCollector'],
+             pathex=['C:\\Python\\Python35-32\\Lib\\site-packages\\PyQt5\\Qt\\bin', 'C:\\Python\\Python35-32\\Lib\\site-packages\\PyQt5\\Qt\\plugins', 'F:\\Workspace\\GitHub\\MacAddressCollector'],
              binaries=[],
              datas=[],
              hiddenimports=[],
@@ -24,6 +24,6 @@ exe = EXE(pyz,
           name='MacAddressCollectorMain',
           debug=False,
           strip=False,
-          upx=True,
+          upx=False,
           runtime_tmpdir=None,
-          console=True , icon='110.ico')
+          console=False , icon='110.ico')
